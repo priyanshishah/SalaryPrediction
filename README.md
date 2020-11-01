@@ -59,6 +59,7 @@ The datasets given are as follows:
 - Bar plots for counts
 - Box and whisker plots for each category by salary  
 - Line graphs for numerical features vs salary  
+
 **(5)Examine the correlation between features/features and features/target**  
 - Heatmap correlation matrix  
 

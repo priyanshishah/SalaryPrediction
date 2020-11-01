@@ -62,7 +62,7 @@ The datasets given are as follows:
 **(5)Examine the correlation between features/features and features/target**  
 - Heatmap correlation matrix  
 
-**(6)Run baseline model ** 
+**(6)Run baseline model** 
 - A simple linear regression model
   
 **(7)Hypothesize feature engineering to improve accuracy over the baseline model**  
